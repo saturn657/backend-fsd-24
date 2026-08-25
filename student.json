@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "age": 20,
+    "gender": "Male",
+    "course": "Computer Science",
+    "year": 2,
+    "cgpa": 8.7,
+    "email": "aarav.sharma@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "age": 19,
+    "gender": "Female",
+    "course": "Information Technology",
+    "year": 1,
+    "cgpa": 9.1,
+    "email": "priya.verma@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Rohan Mehta",
+    "age": 21,
+    "gender": "Male",
+    "course": "Electronics",
+    "year": 3,
+    "cgpa": 8.3,
+    "email": "rohan.mehta@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Ananya Gupta",
+    "age": 20,
+    "gender": "Female",
+    "course": "Mechanical Engineering",
+    "year": 2,
+    "cgpa": 8.9,
+    "email": "ananya.gupta@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Karan Singh",
+    "age": 22,
+    "gender": "Male",
+    "course": "Civil Engineering",
+    "year": 4,
+    "cgpa": 7.8,
+    "email": "karan.singh@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "age": 21,
+    "gender": "Female",
+    "course": "Computer Science",
+    "year": 3,
+    "cgpa": 9.4,
+    "email": "sneha.patel@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Vikram Yadav",
+    "age": 19,
+    "gender": "Male",
+    "course": "Data Science",
+    "year": 1,
+    "cgpa": 8.5,
+    "email": "vikram.yadav@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Neha Kapoor",
+    "age": 22,
+    "gender": "Female",
+    "course": "Artificial Intelligence",
+    "year": 4,
+    "cgpa": 9.2,
+    "email": "neha.kapoor@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Aditya Rao",
+    "age": 20,
+    "gender": "Male",
+    "course": "Cyber Security",
+    "year": 2,
+    "cgpa": 8.1,
+    "email": "aditya.rao@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Meera Iyer",
+    "age": 21,
+    "gender": "Female",
+    "course": "Software Engineering",
+    "year": 3,
+    "cgpa": 9.0,
+    "email": "meera.iyer@example.com"
+  }
+]
