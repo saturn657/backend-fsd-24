@@ -1,0 +1,36 @@
+Output -->
+Start
+Async 1
+End
+Promise 1
+Async 2
+Timeout 1
+Timeout 2
+
+
+
+
+Why -->
+
+Synchronous code runs first
+Start
+demo() runs -> Async 1
+await pauses demo()
+End
+
+Microtasks run next
+Promise.then() -> Promise 1
+It schedules Timeout 2
+await continuation -> Async 2
+
+Macrotasks run after all microtasks
+Timeout 1 was registered first -> Timeout 1
+Timeout 2 was registered later -> Timeout 2
+
+
+
+
+Tasks-->
+Synchronous-->	Start, Async 1, End
+Microtasks-->	Promise 1, Async 2
+Macrotasks-->	Timeout 1, Timeout 2

@@ -1,0 +1,12 @@
+Output -->
+Start
+End
+Promise
+Timeout
+
+
+Explain -->
+
+Call Stack: Runs synchronous code first --> Start, End
+Microtask Queue: Promise callback goes here --> Promise
+Callback Queue: setTimeout callback goes here --> Timeout

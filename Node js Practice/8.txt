@@ -1,0 +1,17 @@
+Output -->
+A
+D
+C
+B
+
+Why -->
+
+Synchronous code runs first.
+console.log("A") → A
+console.log("D") → D
+
+Promise callbacks (microtasks) run next.
+Promise.resolve().then(...) → C
+
+setTimeout callbacks (macrotasks) run after microtasks.
+setTimeout(...,0) → B
