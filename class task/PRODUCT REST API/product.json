@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 55000,
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Wireless Mouse",
+        "price": 800,
+        "category": "Electronics"
+    },
+    {
+        "id": 3,
+        "name": "Mechanical Keyboard",
+        "price": 2500,
+        "category": "Electronics"
+    },
+    {
+        "id": 4,
+        "name": "USB-C Cable",
+        "price": 500,
+        "category": "Accessories"
+    },
+    {
+        "id": 5,
+        "name": "Power Bank",
+        "price": 1500,
+        "category": "Electronics"
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "price": 2200,
+        "category": "Electronics"
+    },
+    {
+        "id": 7,
+        "name": "Headphones",
+        "price": 3000,
+        "category": "Electronics"
+    },
+    {
+        "id": 8,
+        "name": "Smart Watch",
+        "price": 4500,
+        "category": "Electronics"
+    },
+    {
+        "id": 9,
+        "name": "Webcam",
+        "price": 2800,
+        "category": "Electronics"
+    },
+    {
+        "id": 10,
+        "name": "Monitor",
+        "price": 12000,
+        "category": "Electronics"
+    },
+    {
+        "id": 11,
+        "name": "Desk Lamp",
+        "price": 1200,
+        "category": "Home"
+    },
+    {
+        "id": 12,
+        "name": "Office Chair",
+        "price": 8500,
+        "category": "Furniture"
+    },
+    {
+        "id": 13,
+        "name": "Study Table",
+        "price": 6500,
+        "category": "Furniture"
+    },
+    {
+        "id": 14,
+        "name": "Bookshelf",
+        "price": 4500,
+        "category": "Furniture"
+    },
+    {
+        "id": 15,
+        "name": "Backpack",
+        "price": 1800,
+        "category": "Bags"
+    },
+    {
+        "id": 16,
+        "name": "Travel Bag",
+        "price": 2500,
+        "category": "Bags"
+    },
+    {
+        "id": 17,
+        "name": "Wallet",
+        "price": 900,
+        "category": "Accessories"
+    },
+    {
+        "id": 18,
+        "name": "Sunglasses",
+        "price": 1600,
+        "category": "Accessories"
+    },
+    {
+        "id": 19,
+        "name": "Leather Belt",
+        "price": 1100,
+        "category": "Accessories"
+    },
+    {
+        "id": 20,
+        "name": "Running Shoes",
+        "price": 3500,
+        "category": "Footwear"
+    },
+    {
+        "id": 21,
+        "name": "Casual Shoes",
+        "price": 2800,
+        "category": "Footwear"
+    },
+    {
+        "id": 22,
+        "name": "Sports Shoes",
+        "price": 4200,
+        "category": "Footwear"
+    },
+    {
+        "id": 23,
+        "name": "Sandals",
+        "price": 1200,
+        "category": "Footwear"
+    },
+    {
+        "id": 24,
+        "name": "Formal Shoes",
+        "price": 3200,
+        "category": "Footwear"
+    },
+    {
+        "id": 25,
+        "name": "T-Shirt",
+        "price": 700,
+        "category": "Clothing"
+    },
+    {
+        "id": 26,
+        "name": "Jeans",
+        "price": 1800,
+        "category": "Clothing"
+    },
+    {
+        "id": 27,
+        "name": "Hoodie",
+        "price": 2200,
+        "category": "Clothing"
+    },
+    {
+        "id": 28,
+        "name": "Jacket",
+        "price": 3500,
+        "category": "Clothing"
+    },
+    {
+        "id": 29,
+        "name": "Formal Shirt",
+        "price": 1400,
+        "category": "Clothing"
+    },
+    {
+        "id": 30,
+        "name": "Track Pants",
+        "price": 1300,
+        "category": "Clothing"
+    },
+    {
+        "id": 31,
+        "name": "Cricket Bat",
+        "price": 4500,
+        "category": "Sports"
+    },
+    {
+        "id": 32,
+        "name": "Cricket Ball",
+        "price": 500,
+        "category": "Sports"
+    },
+    {
+        "id": 33,
+        "name": "Football",
+        "price": 1200,
+        "category": "Sports"
+    },
+    {
+        "id": 34,
+        "name": "Basketball",
+        "price": 1500,
+        "category": "Sports"
+    },
+    {
+        "id": 35,
+        "name": "Tennis Racket",
+        "price": 3000,
+        "category": "Sports"
+    },
+    {
+        "id": 36,
+        "name": "Badminton Racket",
+        "price": 1800,
+        "category": "Sports"
+    },
+    {
+        "id": 37,
+        "name": "Yoga Mat",
+        "price": 900,
+        "category": "Fitness"
+    },
+    {
+        "id": 38,
+        "name": "Dumbbell Set",
+        "price": 2500,
+        "category": "Fitness"
+    },
+    {
+        "id": 39,
+        "name": "Resistance Band",
+        "price": 600,
+        "category": "Fitness"
+    },
+    {
+        "id": 40,
+        "name": "Skipping Rope",
+        "price": 400,
+        "category": "Fitness"
+    },
+    {
+        "id": 41,
+        "name": "Water Bottle",
+        "price": 700,
+        "category": "Fitness"
+    },
+    {
+        "id": 42,
+        "name": "Gym Gloves",
+        "price": 800,
+        "category": "Fitness"
+    },
+    {
+        "id": 43,
+        "name": "Novel",
+        "price": 450,
+        "category": "Books"
+    },
+    {
+        "id": 44,
+        "name": "Programming Book",
+        "price": 900,
+        "category": "Books"
+    },
+    {
+        "id": 45,
+        "name": "Data Structures Book",
+        "price": 750,
+        "category": "Books"
+    },
+    {
+        "id": 46,
+        "name": "Database Book",
+        "price": 850,
+        "category": "Books"
+    },
+    {
+        "id": 47,
+        "name": "Notebook",
+        "price": 120,
+        "category": "Stationery"
+    },
+    {
+        "id": 48,
+        "name": "Diary",
+        "price": 300,
+        "category": "Stationery"
+    },
+    {
+        "id": 49,
+        "name": "Ball Pen Pack",
+        "price": 150,
+        "category": "Stationery"
+    },
+    {
+        "id": 50,
+        "name": "Marker Set",
+        "price": 250,
+        "category": "Stationery"
+    },
+    {
+        "id": 51,
+        "name": "Pencil Box",
+        "price": 180,
+        "category": "Stationery"
+    },
+    {
+        "id": 52,
+        "name": "Calculator",
+        "price": 600,
+        "category": "Stationery"
+    },
+    {
+        "id": 53,
+        "name": "Printer",
+        "price": 9500,
+        "category": "Electronics"
+    },
+    {
+        "id": 54,
+        "name": "Scanner",
+        "price": 7000,
+        "category": "Electronics"
+    },
+    {
+        "id": 55,
+        "name": "Tablet",
+        "price": 18000,
+        "category": "Electronics"
+    },
+    {
+        "id": 56,
+        "name": "Smartphone",
+        "price": 25000,
+        "category": "Electronics"
+    },
+    {
+        "id": 57,
+        "name": "Phone Case",
+        "price": 500,
+        "category": "Accessories"
+    },
+    {
+        "id": 58,
+        "name": "Screen Protector",
+        "price": 250,
+        "category": "Accessories"
+    },
+    {
+        "id": 59,
+        "name": "Wireless Charger",
+        "price": 1400,
+        "category": "Electronics"
+    },
+    {
+        "id": 60,
+        "name": "Smart Bulb",
+        "price": 900,
+        "category": "Home"
+    },
+    {
+        "id": 61,
+        "name": "Coffee Maker",
+        "price": 4500,
+        "category": "Kitchen"
+    },
+    {
+        "id": 62,
+        "name": "Electric Kettle",
+        "price": 1800,
+        "category": "Kitchen"
+    },
+    {
+        "id": 63,
+        "name": "Toaster",
+        "price": 2200,
+        "category": "Kitchen"
+    },
+    {
+        "id": 64,
+        "name": "Mixer Grinder",
+        "price": 3500,
+        "category": "Kitchen"
+    },
+    {
+        "id": 65,
+        "name": "Air Fryer",
+        "price": 6500,
+        "category": "Kitchen"
+    },
+    {
+        "id": 66,
+        "name": "Lunch Box",
+        "price": 600,
+        "category": "Kitchen"
+    },
+    {
+        "id": 67,
+        "name": "Cooking Pan",
+        "price": 1200,
+        "category": "Kitchen"
+    },
+    {
+        "id": 68,
+        "name": "Dinner Set",
+        "price": 2500,
+        "category": "Kitchen"
+    },
+    {
+        "id": 69,
+        "name": "Coffee Mug",
+        "price": 350,
+        "category": "Kitchen"
+    },
+    {
+        "id": 70,
+        "name": "Water Glass Set",
+        "price": 500,
+        "category": "Kitchen"
+    },
+    {
+        "id": 71,
+        "name": "Bedsheet",
+        "price": 900,
+        "category": "Home"
+    },
+    {
+        "id": 72,
+        "name": "Pillow",
+        "price": 500,
+        "category": "Home"
+    },
+    {
+        "id": 73,
+        "name": "Blanket",
+        "price": 1800,
+        "category": "Home"
+    },
+    {
+        "id": 74,
+        "name": "Curtains",
+        "price": 1500,
+        "category": "Home"
+    },
+    {
+        "id": 75,
+        "name": "Floor Mat",
+        "price": 700,
+        "category": "Home"
+    },
+    {
+        "id": 76,
+        "name": "Wall Clock",
+        "price": 850,
+        "category": "Home"
+    },
+    {
+        "id": 77,
+        "name": "Table Clock",
+        "price": 600,
+        "category": "Home"
+    },
+    {
+        "id": 78,
+        "name": "LED Strip",
+        "price": 800,
+        "category": "Home"
+    },
+    {
+        "id": 79,
+        "name": "Extension Board",
+        "price": 700,
+        "category": "Electronics"
+    },
+    {
+        "id": 80,
+        "name": "USB Hub",
+        "price": 900,
+        "category": "Electronics"
+    },
+    {
+        "id": 81,
+        "name": "Hard Drive",
+        "price": 5500,
+        "category": "Electronics"
+    },
+    {
+        "id": 82,
+        "name": "SSD",
+        "price": 6500,
+        "category": "Electronics"
+    },
+    {
+        "id": 83,
+        "name": "Pen Drive",
+        "price": 700,
+        "category": "Electronics"
+    },
+    {
+        "id": 84,
+        "name": "Memory Card",
+        "price": 900,
+        "category": "Electronics"
+    },
+    {
+        "id": 85,
+        "name": "Gaming Mouse",
+        "price": 1800,
+        "category": "Gaming"
+    },
+    {
+        "id": 86,
+        "name": "Gaming Keyboard",
+        "price": 3500,
+        "category": "Gaming"
+    },
+    {
+        "id": 87,
+        "name": "Gaming Headset",
+        "price": 2800,
+        "category": "Gaming"
+    },
+    {
+        "id": 88,
+        "name": "Game Controller",
+        "price": 2200,
+        "category": "Gaming"
+    },
+    {
+        "id": 89,
+        "name": "Gaming Chair",
+        "price": 12000,
+        "category": "Gaming"
+    },
+    {
+        "id": 90,
+        "name": "Graphics Tablet",
+        "price": 5000,
+        "category": "Electronics"
+    },
+    {
+        "id": 91,
+        "name": "Camera",
+        "price": 45000,
+        "category": "Electronics"
+    },
+    {
+        "id": 92,
+        "name": "Tripod",
+        "price": 1800,
+        "category": "Accessories"
+    },
+    {
+        "id": 93,
+        "name": "Camera Bag",
+        "price": 2200,
+        "category": "Bags"
+    },
+    {
+        "id": 94,
+        "name": "Microphone",
+        "price": 3500,
+        "category": "Electronics"
+    },
+    {
+        "id": 95,
+        "name": "Ring Light",
+        "price": 1500,
+        "category": "Electronics"
+    },
+    {
+        "id": 96,
+        "name": "Bluetooth Adapter",
+        "price": 600,
+        "category": "Electronics"
+    },
+    {
+        "id": 97,
+        "name": "WiFi Router",
+        "price": 2500,
+        "category": "Electronics"
+    },
+    {
+        "id": 98,
+        "name": "Ethernet Cable",
+        "price": 350,
+        "category": "Accessories"
+    },
+    {
+        "id": 99,
+        "name": "Smart TV",
+        "price": 35000,
+        "category": "Electronics"
+    },
+    {
+        "id": 100,
+        "name": "Bluetooth Earbuds",
+        "price": 2200,
+        "category": "Electronics"
+    }
+]
