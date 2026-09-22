@@ -9,14 +9,14 @@ app.use(express.json());
 
 // GET products
 app.get("/api/products", (req, res) => {
-  const data = fs.readFileSync("products.json", "utf-8");
+  const data = fs.readFileSync("./products.json", "utf-8");
   const products = JSON.parse(data);
   res.json(products);
 });
 
 // POST product
 app.post("/api/products", (req, res) => {
-  const data = fs.readFileSync("products.json", "utf-8");
+  const data = fs.readFileSync("./products.json", "utf-8");
   const products = JSON.parse(data);
 
   const newProduct = {
@@ -29,7 +29,7 @@ app.post("/api/products", (req, res) => {
   products.push(newProduct);
 
   fs.writeFileSync(
-    "products.json",
+    "./products.json",
     JSON.stringify(products, null, 2)
   );
 
@@ -38,7 +38,7 @@ app.post("/api/products", (req, res) => {
 
 // DELETE product
 app.delete("/api/products/:id", (req, res) => {
-  const data = fs.readFileSync("products.json", "utf-8");
+  const data = fs.readFileSync("./products.json", "utf-8");
   let products = JSON.parse(data);
 
   const id = parseInt(req.params.id);
@@ -46,7 +46,7 @@ app.delete("/api/products/:id", (req, res) => {
   products = products.filter((product) => product.id !== id);
 
   fs.writeFileSync(
-    "products.json",
+    "./products.json",
     JSON.stringify(products, null, 2)
   );
 
